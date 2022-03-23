@@ -1,0 +1,23 @@
+{
+	"workbench.iconTheme": "material-icon-theme",
+	"editor.fontFamily": "Fira Code",
+	"editor.fontLigatures": true,
+	"editor.fontWeight": "400",
+	"editor.fontSize": 15,
+	"editor.minimap.enabled": false,
+	"prettier.disableLanguages": [],
+	"better-comments.multilineComments": true,
+	"javascript.updateImportsOnFileMove.enabled": "never",
+	"typescript.updateImportsOnFileMove.enabled": "never",
+	"explorer.confirmDelete": false,
+	"diffEditor.ignoreTrimWhitespace": false,
+	"prettier.jsxSingleQuote": true,
+	"explorer.confirmDragAndDrop": false,
+	"editor.tabCompletion": "on",
+	"editor.detectIndentation": true,
+	"bracketPairColorizer.depreciation-notice": false,
+	"window.menuBarVisibility": "toggle",
+	"eslint.format.enable": true,
+	"editor.formatOnSave": true,
+	"git.confirmSync": false
+}
